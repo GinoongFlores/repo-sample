@@ -82,7 +82,7 @@ class FullScreenView extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Full-screen Flutter'),
+        title: const Text('New title'),
       ),
       body: const Contents(showExit: true),
     );
