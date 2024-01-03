@@ -83,7 +83,7 @@ class FullScreenView extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text('New title'),
-        title: const Text('Second title'),
+        title: const Text('Main title'),
       ),
       body: const Contents(showExit: true),
     );
