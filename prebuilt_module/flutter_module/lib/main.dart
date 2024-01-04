@@ -84,9 +84,9 @@ class FullScreenView extends StatelessWidget {
       appBar: AppBar(
         title: const Text('New title'),
         title: const Text('Right title'),
-        icon: Icon(Icons.college),
+        icon: Icon(Icons.open),
       ),
-      body: const Contents(showIcon: false),
+      body: const Contents(showTitle: true),
     );
   }
 }
