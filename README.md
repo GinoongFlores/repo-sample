@@ -1,3 +1,13 @@
+# extended attendee! 
+
+Name - Course-Year - GDSC chapter
+
+Juan Luna - BSIT-4 - GDSC STI CDO
+
+---
+
+
+
 # Add-to-App Samples
 
 This directory contains Android and iOS projects that import and use a Flutter
