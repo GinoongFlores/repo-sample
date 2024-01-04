@@ -86,7 +86,7 @@ class FullScreenView extends StatelessWidget {
         title: const Text('Right title'),
         icon: Icon(Icons.college),
       ),
-      body: const Contents(showExit: false),
+      body: const Contents(showIcon: false),
     );
   }
 }
