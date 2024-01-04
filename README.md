@@ -6,6 +6,9 @@ Juan Luna - BSIT-4 - GDSC STI CDO
 
 ---
 
+# set git default editor to vs code
+`git config --global core.editor "code --wait"`
+
 
 
 # Add-to-App Samples
